@@ -1,74 +1,48 @@
-<img src="https://source.unsplash.com/1600x400/?technology,coding" alt="Banner Image" width="100%">
-
-<h1 align="center">Hello! I'm Chirag Verma 👋</h1>
-
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/magic.gif" width="50">
+  <img src="A_futuristic_GitHub_profile_banner_with_a_dark_gra.png" alt="Banner Image" width="100%" />
 </p>
 
----
+# Hello! I'm Chirag Verma 👋
 
-### 🚀 About Me  
-🔹 AI/ML Enthusiast | Software Developer | Tech Explorer  
-🔹 Passionate about Machine Learning, GenAI, and Scalable Applications  
-🔹 Love solving Data Structures & Algorithms problems  
+### 🚀 AI/ML Enthusiast | Software Engineer | Tech Explorer
 
----
+I'm passionate about **Machine Learning, Deep Learning, and Generative AI**. I love solving problems and building innovative solutions.
 
-### 🛠️ Tech Stack  
-
-#### 🔹 **Programming & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-#### 🤖 **AI/ML & Data Science**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-663399?style=flat&logo=OpenAI&logoColor=white)
-
-#### 📊 **Data & Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-336791?style=flat&logo=pandas&logoColor=white)
-
-#### 🚀 **Backend & APIs**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-#### 🛠️ **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-00ADD8?style=flat&logo=azurepipelines&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A192F?style=flat&logo=githubactions&logoColor=white)
+## ⚡ Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/DL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Gen AI](https://img.shields.io/badge/GenAI-800080?style=for-the-badge&logo=openai&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-008080?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-008080?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-20C997?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
+## 🌐 Connect with me:
 
-## 🌐 Connect with me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chiragverma24/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="[your-leetcode-url](https://leetcode.com/u/Chirag-24/)">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode">
+<p align="left">
+  <a href="https://www.linkedin.com/in/chiragverma24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="chirag.yep@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://leetcode.com/your-leetcode-profile](https://leetcode.com/u/Chirag-24/)" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
-
-
----
-
-✨ **"Striving for excellence, one line of code at a time!"** 🚀
-
