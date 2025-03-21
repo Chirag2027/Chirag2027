@@ -3,6 +3,13 @@
   <img src="A_futuristic_GitHub_profile_banner_with_a_dark_gra.png" alt="Banner Image" width="100%" />
 </p>
 
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirag2027&color=blue" alt="Profile Views" />
+</p>
+
+
 # Hello! I'm Chirag Verma 👋
 
 ### 🚀 AI/ML Enthusiast | Software Engineer | Tech Explorer
