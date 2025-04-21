@@ -3,18 +3,18 @@
   <img src="A_futuristic_GitHub_profile_banner_with_a_dark_gra.png" alt="Banner Image" width="100%" />
 </p>
 
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chirag2027&color=blue" alt="Profile Views" />
 </p>
-
 
 # Hello! I'm Chirag Verma 👋
 
 ### 🚀 AI/ML Enthusiast | Software Engineer | Tech Explorer
 
 I'm passionate about **Machine Learning, Deep Learning, and Generative AI**. I love solving problems and building innovative solutions.
+
+---
 
 ## ⚡ Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,16 +40,33 @@ I'm passionate about **Machine Learning, Deep Learning, and Generative AI**. I l
 
 ---
 
-## 🌐 Connect with me:
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirag2027&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chirag2027&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag2027&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+---
+
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chiragverma24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="chirag.yep@gmail.com">
+  <a href="mailto:chirag.yep@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://leetcode.com/your-leetcode-profile](https://leetcode.com/u/Chirag-24/)" target="_blank">
+  <a href="https://leetcode.com/u/Chirag-24/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
