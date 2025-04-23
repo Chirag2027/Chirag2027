@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="A_futuristic_GitHub_profile_banner_with_a_dark_gra.png" alt="Banner Image" width="100%" />
+  <img src="[A_futuristic_GitHub_profile_banner_with_a_dark_gra.png](https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600)" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Profile Views Counter -->
