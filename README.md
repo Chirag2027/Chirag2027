@@ -1,14 +1,20 @@
 <!-- Banner Image -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Banner Image" width="100%" />
+  <img 
+    src="https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600" 
+    alt="Banner Image" 
+    style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
+  />
 </p>
+
 
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chirag2027&color=blue" alt="Profile Views" />
 </p>
 
-# Hello! I'm Chirag Verma 👋
+# Hello! I'm Chirag Verma 👋 
 
 ### 🚀 AI/ML Enthusiast | Software Engineer | Tech Explorer
 
