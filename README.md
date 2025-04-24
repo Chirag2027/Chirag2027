@@ -4,6 +4,7 @@
     src="https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600" 
     alt="Banner Image" 
     width="500" 
+    height="200"
     style="border-radius: 15px;" 
   />
 </p>
