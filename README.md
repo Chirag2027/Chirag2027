@@ -1,12 +1,13 @@
 <!-- Banner Image -->
-<!-- Banner Image -->
 <p align="center">
   <img 
     src="https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600" 
     alt="Banner Image" 
-    style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
+    width="500" 
+    style="border-radius: 15px;" 
   />
 </p>
+
 
 
 <!-- Profile Views Counter -->
