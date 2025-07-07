@@ -9,18 +9,26 @@
   />
 </p>
 
-
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chirag2027&color=blue" alt="Profile Views" />
 </p>
 
+<!-- Header with Role -->
+<h3 align="center">
+  Data Scientist Intern @ <span style="color:#00C853"><b>Zypp Electric</b></span>
+</h3>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chirag2027&theme=darkhub&no-frame=true&row=1&title=Followers,Stars,Commits,PullRequest,Repositories" />
+</p>
+
 # Hello! I'm Chirag Verma 👋 
 
-### 🚀 AI/ML Enthusiast | Software Engineer | Tech Explorer
+### 🚀 AI/ML Enthusiast | Software Engineer 
 
-I'm passionate about **Machine Learning, Deep Learning, and Generative AI**. I love solving problems and building innovative solutions.
+I love solving problems and building scalable solutions.
 
 ---
 
@@ -34,11 +42,9 @@ I'm passionate about **Machine Learning, Deep Learning, and Generative AI**. I l
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Gen AI](https://img.shields.io/badge/GenAI-800080?style=for-the-badge&logo=openai&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-008080?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/MLOps-008080?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-20C997?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -61,7 +67,6 @@ I'm passionate about **Machine Learning, Deep Learning, and Generative AI**. I l
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag2027&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 ---
 
