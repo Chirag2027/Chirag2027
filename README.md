@@ -16,7 +16,7 @@
 
 <!-- Header with Role -->
 <h3 align="center">
-  Data Scientist Intern @ <span style="color:#00C853"><b>Zypp Electric</b></span>
+  ML Engineer Intern @ <span style="color:#00C853"><b>Zypp Electric</b></span>
 </h3>
 
 <!-- GitHub Trophies -->
