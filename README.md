@@ -24,6 +24,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Chirag2027&theme=darkhub&no-frame=true&row=1&title=Followers,Stars,Commits,PullRequest,Repositories" />
 </p>
 
+<!-- GitHub Profile Summary Card -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirag2027&theme=2077" 
+    alt="GitHub Profile Summary"
+  />
+</p>
+
 # Hello! I'm Chirag Verma 👋 
 
 ### 🚀 AI/ML Enthusiast | Software Engineer 
@@ -57,15 +65,15 @@ I love solving problems and building scalable solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag2027&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirag2027&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chirag2027&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chirag2027&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag2027&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag2027&layout=compact&theme=radical" />
 </p>
 
 ---
