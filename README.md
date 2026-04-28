@@ -20,7 +20,7 @@
 name        : Chirag Verma
 location    : Gurugram, India
 role        : Backend Developer Intern @ Zypp Electric
-education   : B.Tech CSE — Bennett University (CGPA: 9.47)
+education   : B.Tech CSE — Bennett University (CGPA: 9.43)
 focus       : Backend Systems · ML Engineering · GenAI · MLOps
 interests   : Scalable APIs, LLMs, RAG, Competitive Programming
 ```
@@ -67,6 +67,7 @@ I build **scalable backend systems** and **ML-powered solutions** — from micro
 - Revamped **wallet module** for Zypp Pilot app, migrating from monolithic to **microservices** using **Java & Spring Boot**
 - Developed **RESTful APIs** for ERP system to automate operational workflows
 - Engineered **slotting & non-slotting flow logic** for Walk-In Service (WIS) feature
+- Architected read-write separation using a primary-replica database strategy across microservices, directing read traffic to replicas and writes to the primary, significantly improving system scalability, lowering query latency, and enhancing database throughput.
 - Used **Redis** for caching and **MySQL** for high-performance, scalable database operations
 
 ### 🤖 ML Engineer Intern — Zypp Electric *(Jun 2025 – Sep 2025)*
